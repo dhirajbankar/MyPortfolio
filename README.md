@@ -2,7 +2,7 @@ My Data Science portfolio
 ================
 
 ## [My GitHub](https://github.com/dhirajbankar/dhirajbankar.github.io)
-Portfolio url - https://dhirajbankar.github.io/
+Portfolio url - https://dhirajbankar.github.io/ 
 
 Below my portfolion as part data science study 
 
